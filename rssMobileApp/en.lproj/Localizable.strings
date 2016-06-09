@@ -1,0 +1,96 @@
+// Screen titles
+
+"loginScreen" = "Log in";
+"registerScreen" = "Registraion";
+"mainScreen" = "My subscriptions";
+"settings" = "Settings";
+
+// progress hud
+
+"progresHudLabel" = "Data loading graphical element";
+"progressHudHint" = "The screen temporarily locked. data processing";
+
+//
+"logoutQuestion" = "Do you want to logout?";
+"logout" = "Logout";
+"login" = "Login";
+"loginNoun" = "login";
+"register" = "Register";
+"setUpAccount" = "Create an account";
+"blackWhuteStyle" = "Black and white mode";
+"password" = "password";
+"passwordRepeat" = "repeated password";
+"allPosts" = "All";
+"Info"      = "Information";
+"Warning"   = "Warning";
+"Ok"        = "OK";
+"cancel"    = "Cancel";
+
+
+//Warnings
+"userNameNotAvailable"  = "This user name is already taken, choose another and try again";
+"registrationFailed"    = "Registration failed";
+"fillAllFields"         = "Please complete all fields";
+"passwordsNotTheSame"   = "Password and repeated password are not the same. Correct";
+"invalidCreditionals"   = "Incorrect login or password";
+"loginAndSyncFailed"    = "Login and synchronization failed, server error";
+"suncFailed"            = "Synchronization failed";
+"suncFailedHaveToLogin" = "Synchronization failed. Sign In";
+"deletingChanelFailed"  = "Failed to delete the RSS feed, try again";
+"chanelDeleted"         = "RSS feed deleted";
+"tryAgain"              = "Try again";
+"sthWentWrong"          = "Something went wrong, check the Internet connection and try again";
+"loginAndSyncFailedUnnownError" = "Login and synchronization failed, unknown server error";
+"loginFailedServerError" = "Login failed, server error";
+"loginFailedUnnownServerAddress" = "Login failed, unknown server address";
+"setUpaAccountToSyncData" = "Create an account to synchronize data";
+"noInternetCantSync" = "No connection to the Internet, you can not synchronize data";
+
+"markAsReadedOlderThan" = "Mark as read posts older than:";
+"oneDay"        = "1 day";
+"3days"         = "3 days";
+"week"          = "a week";
+"unread"        = "Unreaded";
+
+
+
+"label_addFeed"         = "Adding RSS feed";
+"label_markAsUnread"    = "Marks posts as readed by choosen criteria";
+"hint_markAsUnread"     = "";
+"label_userSettings"    = "User settings";
+"label_unread"          = "Unread posts";
+"hint_unread"           = "Filters posts list and shows unread ones";
+"label_read"            = "Read posts";
+"hint_read"             = "Filters posts list and shows read ones";
+"label_back"            = "Back";
+"label_login"           = "Login";
+"label_register"        = "Register";
+"label_username"        = "Username";
+"label_password"        = "Password";
+"label_repeatedPassword"= "Repeated password";
+"label_delete"          = "Delete";
+"hint_delete"           = "Deletes feed from the subscriptions list";
+"label_postsUnreadReaded" = "Unread posts";
+"label_allPost"         = "All posts";
+"label_showWebView"     = "Full website mode";
+"label_showReadability" = "Readability mode";
+
+"label_postUnread" = "Unreaded post";
+"label_postRead" = "Readed post";
+
+//added at goclawek
+"youHaveFeedSaved" = "You have already subscribed channel with the given address";
+"feedAdded" = "RSS feed added";
+"addingFeedFailed" = "Failed to save the RSS feed, try again";
+"feedNotExist" = "RSS feed with the given address does not exist";
+"addChanel" = "Add RSS feed";
+"typeFeedUrl" = "Typer RSS feed URL";
+"add" = "Add";
+"samplefeedpl" = "samplepage.pl/feed";
+
+//tutorials
+"syncTutorial" = "To sychroznize data register or login. Go to the list of feeds and shake the phone or pull to refresh.";
+
+
+
+

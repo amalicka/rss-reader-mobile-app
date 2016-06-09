@@ -1,0 +1,96 @@
+// Screen titles
+
+"loginScreen" = "Logowanie";
+"registerScreen" = "Rejestracja";
+"mainScreen" = "Moje subskrypcje";
+"settings" = "Ustawienia";
+
+// progress hud
+
+"progresHudLabel" = "Grafika ładowania danych";
+"progressHudHint" = "Ekran chwilowo zablokowany. Przetwarzanie danych";
+
+//
+"logoutQuestion" = "Wylogować?";
+"logout" = "Wyloguj";
+"login" = "Zaloguj";
+"loginNoun" = "login";
+"register" = "Zarejestruj";
+"setUpAccount" = "Załóż konto";
+"blackWhuteStyle" = "Tryb biało czarny";
+"password" = "hasło";
+"passwordRepeat" = "powtórzone hasło";
+"allPosts" = "Wszystkie";
+"Info"      = "Informacja";
+"Warning"   = "Uwaga";
+"Ok"        = "OK";
+"cancel"    = "Anuluj";
+
+
+//Warnings
+"userNameNotAvailable"  = "Ta nazwa użytkwnia jest już zajęta, wybierz inną i spróbuj ponownie";
+"registrationFailed"    = "Rejestracja nie powiodła się";
+"fillAllFields"         = "Uzupełnij wszystkie pola";
+"passwordsNotTheSame"   = "Hasło i powtórzone hasło nie są takie same";
+"invalidCreditionals"   = "Niepoprawny login lub hasło";
+"loginAndSyncFailed"    = "Logowanie i synchronizacja nie powiodły się, błąd serwera";
+"suncFailed"            = "Synchronizacja nie powiodła się";
+"suncFailedHaveToLogin" = "Synchronizacja nie powiodła się. Zaloguj się";
+"deletingChanelFailed"  = "Nie udało się usunąć kanału, spróbuj ponownie";
+"chanelDeleted"         = "Usunięto wybrany kanał RSS";
+"tryAgain"              = "Spróbuj ponowne";
+"sthWentWrong"          = "Coś poszło nie tak, sprawdź połączenie z internetem i spróbuje ponownie";
+"loginAndSyncFailedUnnownError" = "Logowanie i synchronizacja nie powiodły się, nieznany błąd serwera";
+"loginFailedServerError" = "Logowanie nie powiodło się, błąd serwera";
+"loginFailedUnnownServerAddress" = "Logowanie nie powiodło się, nieznany adres serwera";
+"setUpaAccountToSyncData" = "Załórz konto, żeby synchronizować dane";
+"noInternetCantSync" = "Brak połączenia z internetem, nie można zsynchronizować";
+
+"markAsReadedOlderThan" = "Oznacz jako przeczytane posty starsze niż:";
+"oneDay"        = "1 dzień";
+"3days"         = "3 dni";
+"week"          = "tydzień";
+"unread"        = "Nieprzeczytane";
+
+
+
+"label_addFeed"         = "Dodawanie kanału";
+"label_markAsUnread"    = "Oznacza posty jako przeczytane";
+"hint_markAsUnread"     = "";
+"label_userSettings"    = "Ustawienia użytkownika";
+"hint_unread"           = "Filtruje listę i pokazuje nieprzeczytane";
+"label_read"            = "Posty przeczytane";
+"hint_read"             = "Filtruje listę i pokazuje przecyztane";
+"label_back"            = "Wstecz";
+"label_login"           = "Zaloguj";
+"label_register"        = "Zarejestruj";
+"label_username"        = "Nazwa użytkownika";
+"label_password"        = "Hasło";
+"label_repeatedPassword"= "Powtórzone hasło";
+"label_delete"          = "Usuń";
+"hint_delete"           = "Usuwa lanał z listy subskrypcji";
+"label_postsUnreadReaded" = "Nieprzeczytane posty";
+"label_allPost"         = "Wszystkie posty";
+"label_showWebView"     = "Pełna wersja strony";
+"label_showReadability" = "Uproszczona wersja strony";
+
+"label_postUnread" = "Post nieprzeczytany";
+"label_postRead" = "Post przeczytany";
+
+
+//added at goclawek
+"youHaveFeedSaved" = "Masz już zapisany kanał o podanym adresie";
+"feedAdded" = "Dodano kanał RSS o podanym adresie";
+"addingFeedFailed" = "Nie udało się zapisać kanału w urządzeniu, spróbuj jeszcze raz";
+"feedNotExist" = "Nie istnieje kanał RSS o podanym adresie";
+"addChanel" = "Dodaj kanał";
+"typeFeedUrl" = "Podaj adres URL kanału";
+"add" = "Dodaj";
+"samplefeedpl" = "supeblog.pl";
+
+//tutorials
+"syncTutorial" = "To sychroznize data register or login. Go to the list of feeds and shake the phone or pull to refresh.";
+
+
+
+
